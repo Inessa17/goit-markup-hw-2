@@ -1,0 +1,19 @@
+/* =========== General styles =========== */
+ul,
+ol {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  display: block;
+}
+
+/* =========== Header styles =========== */
