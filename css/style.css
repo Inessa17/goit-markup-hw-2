@@ -96,9 +96,8 @@ body {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.02em
     color: #2e2f42;
-    text-align: center;
 }
 
 .benefits-list-text {
@@ -109,13 +108,8 @@ body {
 }
 
 /* =========== Team Section styles =========== */
-
-.team {
+  .team {
     background-color: #F4F4FD;
-}
-
-.team-list-item {
-    background-color: #FFFFFF;
 }
 
 .section-title {
@@ -134,6 +128,10 @@ body {
     text-align: center
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.team-list-item {
+    background-color: #FFFFFF;
 }
 
 .team-list-text {
